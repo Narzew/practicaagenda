@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/UserObj.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/AddPersonToServiceResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/Agenda.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/UsersDeleteResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/DBHelper.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/Persona.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/UsersAddResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/ApplicationConfig.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/Config.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/AgendaGetXMLResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/Engine.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/ValidarDTDResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/PersonsGetByNameResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/PersonsModifyResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/UsersModifyResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/GetAgendaResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/PersonsGetResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/setup/glassfish-resources.xml</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/ValidarXSDResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/UsersLoginResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/PersonsDeleteResource.java</file>
+            <file>file:/C:/Users/Niki/Documents/NetBeansProjects/RESTFul/RESTFulServ/src/java/restService/AgendaClearResource.java</file>
+        </group>
+    </open-files>
+</project-private>
